@@ -1,0 +1,585 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"fl",
+				"flex-end\tjustify-content"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"mag",
+				"margin-right\tproperty"
+			],
+			[
+				"borr",
+				"border-radius\tproperty"
+			],
+			[
+				"r",
+				"relative\tposition"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"fle",
+				"flex-start\tjustify-content"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"lh",
+				"line-height\tproperty"
+			],
+			[
+				"flex",
+				"flex-start\talign-items"
+			],
+			[
+				"co",
+				"column\tflex-flow"
+			],
+			[
+				"table-c",
+				"table-column\tdisplay"
+			],
+			[
+				"ta",
+				"table-cell\tdisplay"
+			],
+			[
+				"fos",
+				"font-size\tproperty"
+			],
+			[
+				"t",
+				"table-cell\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"bloc",
+				"table-column\tdisplay"
+			],
+			[
+				"borderr",
+				"border-radius\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"fsi",
+				"font-size\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"p",
+				"pointer\tcursor"
+			],
+			[
+				"gridt",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"grida",
+				"grid-auto-rows\tproperty"
+			],
+			[
+				"ro",
+				"rotateX()\ttransform"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"a",
+				"alternate\tanimation-direction"
+			],
+			[
+				"ani",
+				"animation-direction\tproperty"
+			],
+			[
+				"anif",
+				"animation-fill-mode\tproperty"
+			],
+			[
+				"and",
+				"animation-duration\tproperty"
+			],
+			[
+				"animation",
+				"animation-timing-function\tproperty"
+			],
+			[
+				"b",
+				"both\tanimation-fill-mode"
+			],
+			[
+				"anima",
+				"animation-fill-mode\tproperty"
+			],
+			[
+				"animat",
+				"animation-duration\tproperty"
+			],
+			[
+				"animatio",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"tr",
+				"translate()\ttransform"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"s",
+				"space-between\tjustify-content"
+			],
+			[
+				"body",
+				"body-section"
+			],
+			[
+				"tra",
+				"transform-origin\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"col",
+				"column-reverse\tflex-flow"
+			],
+			[
+				"wra",
+				"wrap-reverse\tflex-wrap"
+			],
+			[
+				"f",
+				"flex-start\talign-content"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"bs",
+				"background-size\tproperty"
+			],
+			[
+				"flex-",
+				"flex-basis\tproperty"
+			],
+			[
+				"j",
+				"justify-content\tproperty"
+			],
+			[
+				"row",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"m",
+				"margin-top\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"fons",
+				"font-size\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"ca",
+				"caption\tTag"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"mi",
+				"min-height\tproperty"
+			],
+			[
+				"list-style",
+				"list-style-type\tproperty"
+			],
+			[
+				"table",
+				"table-cell\tdisplay"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"mh",
+				"min-height\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"tc",
+				"table-cell\tdisplay"
+			],
+			[
+				"tab",
+				"table-cell\tdisplay"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: IN",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Mrs_Yuliia/Desktop/Group23.03/index.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ18.03/grid-git.html",
+		"/C/Users/Mrs_Yuliia/Desktop/GIT-2-Project ТЕСТ/style/style.css",
+		"/C/Users/Mrs_Yuliia/Desktop/GIT-2-Project ТЕСТ/index.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ02.03/CSS_FLEX/new_css_flex.css",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ02.03/New-maket-flex.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ24.02/Maket1.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ10.02/CSS_1/STYLE.css",
+		"/C/Users/Mrs_Yuliia/Desktop/Group23.03/ii.html",
+		"/C/Users/Mrs_Yuliia/Desktop/11.03/media.html",
+		"/C/Users/Mrs_Yuliia/Desktop/16.03/grid.html",
+		"/C/Users/Mrs_Yuliia/Desktop/04.03/trans-anim.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ02.03/CSS_FLEX/css_flex.css",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ02.03/Maket-flex.html",
+		"/C/Users/Mrs_Yuliia/Desktop/02.03/flex.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ03.02/ME_main.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ19.02/index.html",
+		"/C/Users/Mrs_Yuliia/Desktop/26.02/FORM.html",
+		"/C/Users/Mrs_Yuliia/Desktop/FORM.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ03.02/ME_magn.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ29.01/index.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ10.02/Position.html",
+		"/C/Users/Mrs_Yuliia/Desktop/19.02/index.html",
+		"/C/Users/Mrs_Yuliia/Desktop/My experiments/ME_v.html",
+		"/C/Users/Mrs_Yuliia/Desktop/My experiments/ME_k.html",
+		"/C/Users/Mrs_Yuliia/Desktop/My experiments/ME_s.html",
+		"/C/Users/Mrs_Yuliia/Desktop/My experiments/ME_magn.html",
+		"/C/Users/Mrs_Yuliia/Desktop/My experiments/ME_m.html",
+		"/C/Users/Mrs_Yuliia/Desktop/My experiments/ME_p.html",
+		"/C/Users/Mrs_Yuliia/Desktop/My experiments/ME_main.html",
+		"/C/Users/Mrs_Yuliia/Desktop/My experiments/ME_CSS/decor.css",
+		"/C/Users/Mrs_Yuliia/Desktop/My experiments/ME_CSS/decorsod.css",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ29.01/CSS/common.css",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ29.01/С.html",
+		"/C/Users/Mrs_Yuliia/Desktop/27.01/css/style.css",
+		"/C/Users/Mrs_Yuliia/Desktop/27.01/CSS.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ29.01/Д.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ29.01/Т.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ29.01/CSS/paint.css",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ27.01/1+1.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ27.01/Л.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ27.01/Т.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ27.01/Д.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ27.01/П.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ27.01/С.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ27.01/CSS/common.css",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ27.01/index.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ 22.01/С.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ 22.01/index.html",
+		"/C/Users/Mrs_Yuliia/Desktop/27.01/css1/common.css",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ 20.01/index.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ 20.01/Л.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ 20.01/Т.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ 20.01/Д.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ 20.01/П.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ 20.01/С.html",
+		"/C/Users/Mrs_Yuliia/Desktop/ДЗ 20.01/1+1.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 42.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "grid-git.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

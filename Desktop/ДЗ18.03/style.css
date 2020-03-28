@@ -1,0 +1,25 @@
+.container{
+			display: grid;
+			margin: 0 auto;
+			max-width: 1024px;
+			grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+			grid-gap: 10px;
+			grid-auto-flow: row;
+			justify-items: center;
+			align-items: center;
+		}
+		.img{
+			background-color: #ccc;
+			background-image: url(cat.jpg);
+			width: 250px;
+			height: 250px;
+			background-size: cover;
+			background-position: center;
+		}
+		p{
+			font-size: 20pt;
+			text-align: left;
+			position: relative;
+			padding-left: 30px;
+			color: white;
+		}
